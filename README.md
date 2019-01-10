@@ -1,15 +1,14 @@
 # Machine-Learning-Resumer-un-pharagraphe
 Le résumé du texte devient de plus en plus nécessaire!
-Vietnamese_doc_summarization_basic
+
+Francais_doc_summarization_basic
+
 Steps:
+
 Preprocessing input document
-
 Sentence tokenizer
-
 Encode Sentences to vectors
-
 Clustering
-
 Build the summarization
 
 Models:
